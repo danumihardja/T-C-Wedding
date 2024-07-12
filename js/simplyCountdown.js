@@ -126,7 +126,7 @@
                     hours: 'jam',
                     minutes: 'menit',
                     seconds: 'detik',
-                    pluralLetter: 's'
+                    pluralLetter: ''
                 },
                 plural: true,
                 inline: false,
