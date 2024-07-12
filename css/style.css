@@ -993,12 +993,12 @@ form label {
   /* words */
 }
 @media screen and (max-width: 768px) {
-  .simply-section,
-  .simply-section > div{
+.simply-countdown > .simply-section,
+.simply-countdown > .simply-section > div {
   height: 70px;
   width: 70px;
   }
-  .simply-countdown > .simply-section .simply-amount {
+.simply-countdown > .simply-section .simply-amount {
   font-size: 24px;
   }
 .simply-countdown > .simply-section .simply-word {
@@ -1007,12 +1007,12 @@ form label {
 }
 
 @media screen and (max-width: 480px) {
- .simply-section,
-  .simply-section > div{
+.simply-countdown > .simply-section,
+.simply-countdown > .simply-section > div {
   height: 50px;
   width: 50px;
   }
-  .simply-countdown > .simply-section .simply-amount {
+.simply-countdown > .simply-section .simply-amount {
   font-size: 20px;
   }
 .simply-countdown > .simply-section .simply-word {
