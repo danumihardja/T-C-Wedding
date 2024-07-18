@@ -1132,8 +1132,8 @@ form label {
     height: 140px;
   }
   .couple-half .groom img, .couple-half .bride img {
-    width: 100px;
-    height: 100px;
+    width: 120px;
+    height: auto;
     margin: 0 auto;
   }
 }
